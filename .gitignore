@@ -105,7 +105,7 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/
-table-controller-ba8e8501f498.json
+.credentials.json
 
 # mkdocs documentation 
 /site 
